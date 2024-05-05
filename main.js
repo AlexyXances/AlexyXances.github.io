@@ -16,7 +16,7 @@ function login() {
       setTimeout(() => {
         window.location = "login.html";
       }, 2000);
-      swal("KENAPA GA JADI BROOOO!", {
+      swal("ANJAYY MABARR!", {
         icon: "success",
       });
     } else {
